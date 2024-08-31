@@ -35,10 +35,57 @@ Provides a centralized platform for users to connect with friends, family, and c
 Delivers tailored content recommendations and notifications based on individual preferences. 
  
 - **Community Building and Support:** 
-Facilitates the formation of online communities based on shared interests and passions. 
+Facilitates the formation of online communities based on shared interests and passions.
 
+
+## Technologies Used
+
+- **Frontend:** TypeScript, React, React Query
+- **Backend:** Tanstack Query, Appwrite
  
-- **Strengthened Networking Opportunities:** 
-Facilitates professional networking and collaboration through direct messaging and group interactions.
+## Screenshots/Demo
+**SignUp Page**
+
+![Picture1](https://github.com/user-attachments/assets/c115b74a-948a-462f-9733-46cda819bef1)
+
+**Login Page**
+
+![login](https://github.com/user-attachments/assets/1d8d035f-5c23-44f2-a727-1ccb226988b4)
+
+**Home Page**
+
+![home page](https://github.com/user-attachments/assets/1ceb6a4b-88b5-4638-997a-f834626d8a3c)
+
+**User Panel On Home Page**
+
+![user panel](https://github.com/user-attachments/assets/23827031-38cf-4ff0-a02a-30388109cba4)
+
+**Creating Post**
+
+![post upload](https://github.com/user-attachments/assets/091a2f69-8c9c-4002-9736-eb24d4297998)
+
+**Deleting Post**
+
+![delete post](https://github.com/user-attachments/assets/5067b5ed-d1ee-4991-8fba-019ab963e529)
+
+**Profile Page**
+
+![profile page](https://github.com/user-attachments/assets/4578a2f4-49b6-448c-8d4a-60726abb14e9)
+
+**Saved Post**
+
+![saved post](https://github.com/user-attachments/assets/77adecad-897c-4fc8-bc35-348e3bbabe78)
+
+**Explore Page**
+
+![explore page](https://github.com/user-attachments/assets/7609a5db-656a-468f-a410-4f99997f09ec)
+
+**User List**
+
+![all users](https://github.com/user-attachments/assets/807c1583-faa4-4675-9e88-8a4cd13ced42)
+
+
+
+
 
 
