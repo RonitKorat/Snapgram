@@ -1,4 +1,4 @@
-# 📷 Snapgram - Social Media Platform
+# 📷 Momento - Social Media Platform
 
 ## Introduction 
 Introducing our cutting-edge Social Media Application - the game-changer in how we connect and engage online! Packed with features and boasting a user-friendly interface, this app is set to redefine social networking for users of all interests and backgrounds. Say hello to effortless communication and seamless interactions! 
