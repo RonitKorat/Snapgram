@@ -7,7 +7,7 @@ import { IUpdatePost, INewPost, INewUser, IUpdateUser } from "@/types";
 // ============================================================
 
 // ============================== SIGN UP
-export async function createUserAccount(user: INewUser) {
+export async function createUserAccount(user:   INewUser) {
   try {
     const newAccount = await account.create(
       ID.unique(),
