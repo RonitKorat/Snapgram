@@ -12,6 +12,10 @@ type PostCardProps = {
 const PostCard = ({ post }: PostCardProps) => {
   const { user } = useUserContext();
 
+  // Debug: Log the post and imageUrl
+  console.log('PostCard post:', post);
+  console.log('PostCard imageUrl:', post.imageUrl);
+
   if (!post.creator) return;
 
   return (
